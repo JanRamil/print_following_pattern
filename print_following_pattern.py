@@ -10,4 +10,6 @@ for num in range(10):
         # Create a code to print the pattern
         print (num, end=" ") 
 
+    # Create a code that will display pattern
+    print("\n")
         
